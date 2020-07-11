@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a :brazil: brazillian computer science :mortar_board: student
+
+- :computer: I'm Pythonist, C++ programmer and Web developer
+- 🌱 I’m currently learning :crab: Rust language
+- :smiley: I'm an enthusiast of artificial intelligence and web development
+- 👯 I’m looking to collaborate on open source web projects
+- 📫 How to reach me: [@ronalddpinho](https://twitter.com/ronalddpinho) 
+- 😄 Pronouns: `he/him`
