@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <!--
-**pinho/pinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,11 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a :brazil: brazillian computer science :mortar_board: student
+I'm a :brazil: brazillian computer science senior student :mortar_board: currently
+researching on evolutionary computation
 
-- :computer: I'm Pythonist, C++ programmer and Web developer
+- :computer: I'm Pythonist :snake:, C++ programmer and Web developer
 - 🌱 I’m currently learning :crab: Rust language
 - :smiley: I'm an enthusiast of artificial intelligence and web development
-- 👯 I’m looking to collaborate on open source web projects
-- 📫 How to reach me: [@ronalddpinho](https://twitter.com/ronalddpinho) 
+- 📫 How to reach me: [@ronalddpinho](https://twitter.com/ronalddpinho)
 - 😄 Pronouns: `he/him`
