@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-Twitter-111?style=flat-square&logo=Twitter&logoColor=white&" alt="Twitter Badge" />
   </a>
 
-  <a href="link=https://facebook.com/ronald.pinho.2" target="_blank">
+  <a href="https://facebook.com/ronald.pinho.2" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-111?style=flat-square&logo=Facebook&logoColor=white" alt="StackOverflow Badge" />
   </a>
 
