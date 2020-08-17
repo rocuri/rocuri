@@ -23,11 +23,10 @@
   <img src="https://img.shields.io/badge/-Facebook-111?style=flat-square&logo=Facebook&logoColor=white" alt="StackOverflow Badge" />
   </a> -->
 
-
 Undergraduate student in computer science, researcher on [Evolutionary computation](https://www.sciencedirect.com/topics/computer-science/evolutionary-computation) on [Laboratory of Applied Artificial Intelligence](http://laai.ufpa.br) and enthusiastic on artificial intelligence in general. My research on Lab is focused on optimization algorithms.
 
 As a software developer, I develop for the full-stack web apps with Node.js technologies. My focus is the back-end but I have acknowledgments and experience with Vue.js and Nuxt.js on front-end.
 
-I am an enthusiastic of free software, cybersecurity and software performance. I'm Python and C++ programmer and now,a rookie on Rust language :crab:.
+I am enthusiastic about free software, cybersecurity, and software performance. I'm Python and C++ programmer and now, a rookie on Rust language :crab: .
 
 As a developer as well as a scientist, I believe in the power of the community to build something better and safer, sharing knowledge is the best way to improve it.
