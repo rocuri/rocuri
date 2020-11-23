@@ -36,6 +36,7 @@ As a developer as well as a scientist, I believe in the power of the community t
 
 ### Technical Stack
 
+<p>
 <img src="https://simpleicons.org/icons/rust.svg" alt="Rust Language" width="32"/>
 <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="32"/>
 <img src="https://simpleicons.org/icons/cmake.svg" alt="CMake" width="32"/>
@@ -49,3 +50,4 @@ As a developer as well as a scientist, I believe in the power of the community t
 <img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="Vue.js" width="32"/>
 <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="Nuxt.js" width="32"/>
 <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="32"/>
+</p>
