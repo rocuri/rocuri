@@ -1,12 +1,8 @@
-<!-- Cor Rosewood: #6A040F -->
+<!-- Rosewood:    #6A040F -->
+<!-- Dark Orange: # -->
 
-<h1 align="center" style="font-family: Roboto Slab; font-weight: 600;">
-  RONALDD PINHO
-</h1>
-
-<!-- <p style="font-family: Fira Sans">
-  Follow me:
-</p> -->
+# Hello from :brazil:
+<!--
 <div align="center">
 <a href="https://twitter.com/ronalddpinho" target="_blank">
   <img src="https://img.shields.io/badge/-@ronalddpinho-6A040F?style=flat-square&logo=Twitter&logoColor=white&" alt="Twitter Badge" />
@@ -21,33 +17,27 @@
   <img src="https://img.shields.io/badge/-Dev.to-6A040F?style=flat-square&labelColor=6A040F&logo=Dev.to&logoColor=white" alt="Dev.to Badge">
 </a>
 </div>
+-->
 
-<p style="font-family:'Fira Sans'">
-Hello, I'm just a guy born in the interior of the northern region of Brazil who has a certain amount of respect for understanding the things I am interested in, such as science and technology. Welcome and feel free.
-</p>
+Hello, I'm Ronaldd, just a guy that have a certain like by understanding how the things works.
+Undergraduating in **computer science** at Federal University of Pará and student fellow in 
+computational intelligence and
+[evolutionary computation](https://www.sciencedirect.com/topics/computer-science/evolutionary-computation).
 
-<p style="font-family:'Fira Sans'">
-Undergraduate student in computer science, researching on <a href="https://www.sciencedirect.com/topics/computer-science/evolutionary-computation" target="_blank">Evolutionary computation</a> on <a href="http://laai.ufpa.br" target="_blank">Laboratory of Applied Artificial Intelligence</a> and enthusiastic on artificial intelligence in general. My research on Lab is focused on optimization algorithms.
-</p>
+As a developer as well as a scientist, I believe in the power of the community to build
+something better and safer, sharing knowledge is the best way to improve it.
 
-<p style="font-family:'Fira Sans'">
-As a developer as well as a scientist, I believe in the power of the community to build something better and safer, sharing knowledge is the best way to improve it.
-</p>
+## Interests
 
-### Technical Stack
+* :computer: **Programming**: I like the idea of build solutions for problems
+* :dna: **Science**: same which above
+* :lock: **Info Security**: I have a great appreciation for this area
+* :penguin: **Linux**: a greater lover of Arch Linux :blue_heart:
+* :books: **Books**: I'm always reading something
 
-<p>
-<img src="https://simpleicons.org/icons/rust.svg" alt="Rust Language" width="32"/>
-<img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="32"/>
-<img src="https://simpleicons.org/icons/cmake.svg" alt="CMake" width="32"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="32"/>
-<img src="https://simpleicons.org/icons/numpy.svg" alt="NumPy" width="32"/>
-<img src="https://simpleicons.org/icons/java.svg" alt="Java" width="32"/>
-<img src="https://simpleicons.org/icons/gradle.svg" alt="Gradle" width="32"/>
-<img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="32"/>
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="32"/>
-<img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" width="32"/>
-<img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="Vue.js" width="32"/>
-<img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="Nuxt.js" width="32"/>
-<img src="https://simpleicons.org/icons/git.svg" alt="Git" width="32"/>
-</p>
+## Skills
+
+* `C/C++` programmer. I have used it in researches on optimization algorithms.
+* `Python` programmer. I usually use it for automating tasks.
+* `JavaScript & Node.js`. I am familiar with both JS in browsers and the Node.js ecosystem, using them in web development.
+* `HTML & CSS & Sass`. I know these technologies to the point of building websites entirely with them (but why would anyone do thait today?).
