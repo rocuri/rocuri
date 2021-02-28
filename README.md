@@ -1,7 +1,7 @@
 <!-- Rosewood:    #6A040F -->
 <!-- Dark Orange: # -->
 
-# Hello from :brazil:
+# Hello World! :brazil:
 <!--
 <div align="center">
 <a href="https://twitter.com/ronalddpinho" target="_blank">
@@ -26,6 +26,12 @@ computational intelligence and
 
 As a developer as well as a scientist, I believe in the power of the community to build
 something better and safer, sharing knowledge is the best way to improve it.
+
+[![LinkedIn](https://img.shields.io/badge/-Ronaldd%20Pinho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ronalddpinho)
+[![Twitter](https://img.shields.io/badge/-@ronalddpinho-1da1f2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ronalddpinho)
+[![Instagram](https://img.shields.io/badge/-@ronalddpinho-d02a78?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ronalddpinho)
+
+Visit https://ronaldd.dev
 
 ## Interests
 
