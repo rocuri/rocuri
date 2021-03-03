@@ -1,7 +1,4 @@
-<!-- Rosewood:    #6A040F -->
-<!-- Dark Orange: # -->
-
-# Hello World! :brazil:
+<!--# Hello World! :brazil:-->
 <!--
 <div align="center">
 <a href="https://twitter.com/ronalddpinho" target="_blank">
@@ -18,6 +15,8 @@
 </a>
 </div>
 -->
+
+# ![Hello World](img/hello-world-bubble.png) :brazil:
 
 Hello, I'm Ronaldd, just a guy that have a certain like by understanding how the things works.
 Undergraduating in **computer science** at Federal University of Pará and student fellow in 
