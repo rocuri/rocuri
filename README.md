@@ -78,4 +78,4 @@ Visit https://ronaldd.dev
 * `POO & SOLID`. Tenho experiências com programação orientada a objetos do zero, tendo pratico com meus projetos pessoais em C++ e procuro sempre seguir os padrões do S.O.L.I.D.
 * `TDD`. Grande adepto da dessa técnica.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinho&exclude_repo=results-paper-cec2020&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinho&exclude_repo=results-paper-cec2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
