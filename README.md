@@ -42,6 +42,7 @@ coisas melhores e mais seguras, compartilhar conhecimento é a melhor forma de m
 [![LinkedIn](https://img.shields.io/badge/-Ronaldd%20Pinho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ronalddpinho)
 [![Twitter](https://img.shields.io/badge/-@ronalddpinho-1da1f2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ronalddpinho)
 [![Instagram](https://img.shields.io/badge/-@ronalddpinho-d02a78?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ronalddpinho)
+[![Codewars](https://www.codewars.com/users/rawka/badges/small)](https://www.codewars.com/users/rawka)
 
 Visit https://ronaldd.dev
 
