@@ -25,26 +25,26 @@ computational intelligence and
 [evolutionary computation](https://www.sciencedirect.com/topics/computer-science/evolutionary-computation).
 -->
 
-E aí, me chamo Ronaldd, só um cara com um certo gosto por entender como as coisas funcionam.
-Atualmente, sou graduando do curso de **ciência da computação** na Universidade Federal do Pará
-e pesquiso em inteligência computacional a
-[computação evolutiva](https://www.sciencedirect.com/topics/computer-science/evolutionary-computation).
+Olá, tudo bem? Meu nome é Ronaldd, atualmente sou graduando do curso de **ciência da computação** na Universidade Federal do Pará,
+sou membro do [LAAI](http://laai.ufpa.br) (_Laboratory of Applied Artificial Intelligence_) onde pesquiso na área de algoritmos de
+otimização e metaherísticos. Também sou desenvolvedor web iniciante em busca de oportunidades de me inserir no mercado.
 
 <!--
 As a developer as well as a scientist, I believe in the power of the community to build
 something better and safer, sharing knowledge is the best way to improve it.
 -->
 
-Sou programador e utilizador de tecnologias mais a nível de sistemas.
-Tanto como desenvolvedor quanto cientista, eu acredito no poder da comunidade para construir
-coisas melhores e mais seguras, compartilhar conhecimento é a melhor forma de melhorá-lo.
+Sou programador e utilizador de tecnologias mais a nível de sistemas. Tenho interesse em _back-end_ web, DevOps e segurança da informação.
+Tanto como desenvolvedor quanto cientista, eu acredito no poder da comunidade para construir coisas melhores e mais seguras,
+compartilhar conhecimento é a melhor forma de melhorá-lo.
 
+[![Website Link](https://img.shields.io/badge/-https://ronaldd.dev-264653?style=flat-square&logo=AngelList&logoColor=white)](https://ronaldd.dev)
 [![LinkedIn](https://img.shields.io/badge/-Ronaldd%20Pinho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ronalddpinho)
 [![Twitter](https://img.shields.io/badge/-@ronalddpinho-1da1f2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ronalddpinho)
 [![Instagram](https://img.shields.io/badge/-@ronalddpinho-d02a78?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ronalddpinho)
 [![Codewars](https://www.codewars.com/users/rawka/badges/small)](https://www.codewars.com/users/rawka)
 
-Visit https://ronaldd.dev
+
 
 ## Meus interesses
 
@@ -57,10 +57,10 @@ Visit https://ronaldd.dev
 * 🎮 **Game**: Call me for play Dota2
 * -->
 
-* :computer: **Programação**: Gosto da ideia de contruir soluções automáticas para problemas
-* :lock: **Segurança da Informação**: Tenho grande apreço e interesse na área
+* :computer: **Desenvolvimento de Software**: Gosto da ideia de contruir soluções para os problemas das pessoas
+* :lock: **Segurança da Informação**: Acredito que a área devia ser levada mais à sério por pessoas desenvolvedoras
 * :penguin: **Linux**: sou um grande amante do Arch Linux :blue_heart:
-* :books: **Ler livros**: Estou sempre lendo algo
+* :gear: **DevOps**: Tenho me tornado um grande admirador dessa cultura que me levou a aprender mais sobre infraestrutura
 * 🎮 **Games**: Me chama pra jogar Dota2
 
 ## Habilidades
@@ -73,10 +73,11 @@ Visit https://ronaldd.dev
 * -->
 
 * `C/C++`. Tenho usado em pesquisas na área de inteligência computacional e algoritmos de otimização.
-* `Python`. Uso geralmente para automatização de tarefas.
-* `JavaScript & Node.js`. Sou famirializado com JS tando no contexto dos navegadores quanto com o ecossitsema Node.js, no front-end e no back-end.
+* `Python`. Uso geralmente para automatização de tarefas e sou bastante confortável com o ecossistema em volta da linguagem.
+* `PHP`. Possuo conhecimentos básicos já tendo usado em projetos simples.
+* `Node.js`. Sou famirializado com JS tando no contexto dos navegadores quanto com o ecossistema Node.js, no front-end e no back-end.
 * `HTML & CSS & Sass`. Tenho conhecimentos em desenvolvimento web front-end desde as tecnologias base em HTML.
-* `POO & SOLID`. Tenho experiências com programação orientada a objetos do zero, tendo pratico com meus projetos pessoais em C++ e procuro sempre seguir os padrões do S.O.L.I.D.
-* `TDD`. Grande adepto da dessa técnica.
+* `POO & SOLID`. Tenho experiências com programação orientada a objetos do zero, tendo pratico com meus projetos de pesquisa e pessoais em C++ e procuro sempre seguir os padrões do S.O.L.I.D.
+* `TDD`. Grande adepto da dessa esstratégia de testes como forma de aumentar a qualidade de software.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinho&exclude_repo=results-paper-cec2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
