@@ -25,9 +25,9 @@ computational intelligence and
 [evolutionary computation](https://www.sciencedirect.com/topics/computer-science/evolutionary-computation).
 -->
 
-Olá, tudo bem? Meu nome é Ronaldd, atualmente sou graduando do curso de **ciência da computação** na Universidade Federal do Pará,
-sou membro do [LAAI](http://laai.ufpa.br) (_Laboratory of Applied Artificial Intelligence_) onde pesquiso na área de algoritmos de
-otimização e metaherísticos. Também sou desenvolvedor web iniciante em busca de oportunidades de me inserir no mercado.
+Olá Mundo! Tudo bem? Meu nome é Ronaldd, sou bacharel em **ciência da computação** e agora mestrando na mesma área
+na Universidade Federal do Pará, membro do [LAAI](http://laai.ufpa.br) (_Laboratory of Applied Artificial Intelligence_)
+onde pesquiso na área de computação evolutiva e algoritmos de otimização. Também sou desenvolvedor de software.
 
 <!--
 As a developer as well as a scientist, I believe in the power of the community to build
@@ -46,7 +46,7 @@ compartilhar conhecimento é a melhor forma de melhorá-lo.
 
 
 
-## Meus interesses
+## Interesses
 
 <!--
 * :computer: **Programming**: I like the idea of build solutions for problems
@@ -57,9 +57,10 @@ compartilhar conhecimento é a melhor forma de melhorá-lo.
 * 🎮 **Game**: Call me for play Dota2
 * -->
 
-* :computer: **Desenvolvimento de Software**: Gosto da ideia de contruir soluções para os problemas das pessoas
-* :lock: **Segurança da Informação**: Acredito que a área devia ser levada mais à sério por pessoas desenvolvedoras
-* :penguin: **Linux**: sou um grande amante do Arch Linux :blue_heart:
+* :computer: **Desenvolvimento de Software**: Gosto da ideia de contruir soluções para problemas impactando diretamente na vida das pessoas
+* :dna: **Ciência**: Produzir conhecimento útil à sociedade
+* :lock: **Segurança da Informação**: Acredito que a segurança devia ser levada mais à sério por pessoas desenvolvedoras
+* :penguin: **Linux**: Amante do Arch Linux :blue_heart:
 * :gear: **DevOps**: Tenho me tornado um grande admirador dessa cultura que me levou a aprender mais sobre infraestrutura
 * 🎮 **Games**: Me chama pra jogar Dota2
 
@@ -75,6 +76,7 @@ compartilhar conhecimento é a melhor forma de melhorá-lo.
 * `C/C++`. Tenho usado em pesquisas na área de inteligência computacional e algoritmos de otimização.
 * `Python`. Uso geralmente para automatização de tarefas e sou bastante confortável com o ecossistema em volta da linguagem.
 * `PHP`. Possuo conhecimentos básicos já tendo usado em projetos simples.
+* `C# e .NET core`. Novo na plataforma, com a qual trabalho atualmente.
 * `Node.js`. Sou famirializado com JS tando no contexto dos navegadores quanto com o ecossistema Node.js, no front-end e no back-end.
 * `HTML & CSS & Sass`. Tenho conhecimentos em desenvolvimento web front-end desde as tecnologias base em HTML.
 * `POO & SOLID`. Tenho experiências com programação orientada a objetos do zero, tendo pratico com meus projetos de pesquisa e pessoais em C++ e procuro sempre seguir os padrões do S.O.L.I.D.
