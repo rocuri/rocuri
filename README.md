@@ -18,6 +18,14 @@
 
 # HELLO WORLD!
 
+Hey, I am just a guy from the interior of the northern region of Brazil who loves programming, science, and technology. I am Bachelor in computer science, software developer at Lambda3 and a Master's degree student in computer science researching optimization algorithms in logistics and routing as a member of the [LAAI](http://laai.ufpa.br) (_Laboratory of Applied Artificial Intelligence_) @ Federal University of Pará.
+
+I have a technical profile. I'm a C/C++ programmer, Linux and open-source software enthusiastic and, I have interests in mid-level languages such as Rust and GoLang.
+
+As both a developer and a scientist, I believe in the power of the community to build better and safer things,
+sharing knowledge is the best way to improve it.
+
+<!--
 Olá Mundo! Tudo bem? Meu nome é Ronaldd, sou bacharel em **ciência da computação** e agora mestrando na mesma área
 na Universidade Federal do Pará, membro do [LAAI](http://laai.ufpa.br) (_Laboratory of Applied Artificial Intelligence_)
 onde pesquiso na área de computação evolutiva e algoritmos de otimização. Também sou desenvolvedor de software.
@@ -25,6 +33,7 @@ onde pesquiso na área de computação evolutiva e algoritmos de otimização. T
 Sou programador e utilizador de tecnologias mais a nível de sistemas. Tenho interesse em _back-end_ web, DevOps e segurança da informação.
 Tanto como desenvolvedor quanto cientista, eu acredito no poder da comunidade para construir coisas melhores e mais seguras,
 compartilhar conhecimento é a melhor forma de melhorá-lo.
+-->
 
 [![Website Link](https://img.shields.io/badge/-https://ronaldd.dev-264653?style=flat-square&logo=AngelList&logoColor=white)](https://ronaldd.dev)
 [![LinkedIn](https://img.shields.io/badge/-Ronaldd%20Pinho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ronalddpinho)
