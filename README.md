@@ -2,10 +2,6 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/-Ronaldd%20Pinho-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ronalddpinho)
 [![Instagram](https://img.shields.io/badge/-@ronalddpinho-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ronalddpinho)
 [![Codewars](https://www.codewars.com/users/rawka/badges/small)](https://www.codewars.com/users/rawka) -->
-<style>
-a { color: orange; }
-a:hover { color: orangered; }
-</style>
 
 <div align="center">
   <h1 style="font-size: 36px; font-weight: bold">
@@ -35,7 +31,7 @@ a:hover { color: orangered; }
   </a>
 </div>
 
-<p>I am just a guy from the interior of the northern region of Brazil who loves programming, science, and technology. I am Bachelor in computer science, software developer at <a href="https://mercadolivre.com.br">Mercado Libre</a> and a Master's degree student in computer science researching optimization algorithms in logistics and routing as a member of the <a src="http://laai.ufpa.br">LAAI</a> (Laboratory of Applied Artificial Intelligence) at <a href="https://portal.ufpa.br">Federal University of Pará</a>.</p>
+<p>I am just a guy from the interior of the northern region of Brazil who loves programming, science, and technology. I am Bachelor in computer science, software developer at <a href="https://mercadolivre.com.br">Mercado Libre</a> and a Master's degree student in computer science researching optimization algorithms in logistics and routing as a member of the <a href="http://laai.ufpa.br">LAAI</a> (Laboratory of Applied Artificial Intelligence) at <a href="https://portal.ufpa.br">Federal University of Pará</a>.</p>
 
 <p>I have a technical profile. I'm a C/C++ programmer, Linux and open-source software enthusiastic and, I have interests in mid-level languages such as Rust and GoLang.</p>
 
