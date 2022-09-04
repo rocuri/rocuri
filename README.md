@@ -19,8 +19,6 @@
   /> -->
 </div>
 
----
-
 <h2 style="padding:5px; margin-bottom:10px; border-bottom: 2px solid orangered; width: fit-content">
   About me
 </h2>
