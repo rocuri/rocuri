@@ -40,16 +40,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2022 - To: 06 March 2023
+From: 21 March 2022 - To: 07 March 2023
 
-Total Time: 577 hrs 11 mins
+Total Time: 582 hrs 5 mins
 
-Go                         173 hrs 21 mins ███████▓░░░░░░░░░░░░░░░░░   30.04 %
-Java                       145 hrs 23 mins ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-Python                     89 hrs 38 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-JavaScript                 68 hrs 3 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-C++                        16 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-JSON                       11 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Go                         173 hrs 21 mins ███████▒░░░░░░░░░░░░░░░░░   29.78 %
+Java                       145 hrs 23 mins ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+Python                     94 hrs 16 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+JavaScript                 68 hrs 3 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+C++                        16 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+JSON                       11 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
