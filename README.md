@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2022 - To: 29 May 2024
+From: 21 March 2022 - To: 30 May 2024
 
-Total Time: 1,025 hrs 49 mins
+Total Time: 1,026 hrs 6 mins
 
-Go                         439 hrs 42 mins ██████████▓░░░░░░░░░░░░░░   42.86 %
+Go                         439 hrs 42 mins ██████████▓░░░░░░░░░░░░░░   42.85 %
 Java                       178 hrs 42 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
 Python                     170 hrs 55 mins ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
 JavaScript                 72 hrs 54 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
