@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2022 - To: 31 July 2024
+From: 21 March 2022 - To: 01 August 2024
 
-Total Time: 1,071 hrs 8 mins
+Total Time: 1,073 hrs
 
-Go                         478 hrs 42 mins ███████████▒░░░░░░░░░░░░░   44.69 %
-Java                       181 hrs 7 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
-Python                     171 hrs 40 mins ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-JavaScript                 73 hrs 44 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-C++                        24 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Go                         480 hrs 19 mins ███████████▒░░░░░░░░░░░░░   44.76 %
+Java                       181 hrs 7 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+Python                     171 hrs 40 mins ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+JavaScript                 73 hrs 44 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+C++                        24 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
