@@ -29,9 +29,9 @@
   </a>
 </div>
 
-<p>I am just a guy from the interior of the northern region of Brazil who loves programming, science, and technology. I am Bachelor in computer science, software developer at <a href="https://mercadolivre.com.br">Mercado Libre</a> and a Master's degree student in computer science researching optimization algorithms in logistics and routing as a member of the <a href="http://laai.ufpa.br">LAAI</a> (Laboratory of Applied Artificial Intelligence) at <a href="https://portal.ufpa.br">Federal University of Pará</a>.</p>
+<p>I am just a guy from the interior of the northern region of Brazil who loves programming, science, and technology. I am software engineer at <a href="https://mercadolivre.com.br">Mercado Libre</a> and a Master in computer science researching optimization algorithms in logistics and routing as a member of the <a href="http://laai.ufpa.br">LAAI</a> (Laboratory of Applied Artificial Intelligence) at <a href="https://portal.ufpa.br">Federal University of Pará</a>.</p>
 
-<p>I have a technical profile. I'm a C/C++ programmer, Linux and open-source software enthusiastic and, I have interests in mid-level languages such as Rust and GoLang.</p>
+<p>I have a technical profile. I'm a C++ developer, Linux and open-source software enthusiastic, actually working with Golang for web services and, I have interests in mid-level languages such as Rust.</p>
 
 <p>As both a developer and a scientist, I believe in the power of the community to build better and safer things, sharing knowledge is the best way to improve it.</p>
 
